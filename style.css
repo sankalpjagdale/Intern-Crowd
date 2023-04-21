@@ -1,0 +1,15 @@
+.min-h-screen
+{
+    min-height: 100vh;
+}
+#navigation
+{
+    border-bottom: 2px solid green;
+}
+.para
+{
+    margin-top: 80px;
+}
+body {
+    overflow: hidden; /* Hide scrollbars */
+  }
